@@ -9,6 +9,6 @@ spec:
     - protocol: TCP
       port: 6380
       nodePort: 31379
-      targetPort: 6380
+      targetPort: 6379
   type: NodePort
   
